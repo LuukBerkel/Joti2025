@@ -2,8 +2,8 @@
 hide:
   - navigation
 ---
-
-# Wat is een Jamboree?
+# JOTI 2025
+## Wat is een Jamboree?
 Een **jamboree** is een groot evenement waarbij scouts van over de hele wereld samenkomen. Tijdens een jamboree leer je nieuwe mensen kennen, doe je leuke activiteiten en ontdek je andere culturen. Er zijn verschillende soorten jamborees, zoals de Wereldjamboree, maar ook digitale versies zoals JOTA en JOTI.
 
 - **JOTA** staat voor Jamboree On The Air. Tijdens JOTA communiceren scouts via radioverbindingen. Zendamateurs gebruiken speciale frequenties, zodat je kunt praten met scouts van ver weg — soms zelfs van de andere kant van de wereld.
