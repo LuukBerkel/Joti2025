@@ -3,9 +3,18 @@ hide:
   - navigation
 ---
 
-# Wat is JOTI?
-JOTI, wat staat voor Jamboree On The Internet, is een superleuk evenement dat elk jaar in oktober plaatsvindt. Dit is dé kans voor scouts van over de hele wereld om via het internet met elkaar te chatten, samen te spelen en leuke opdrachten te doen! Tijdens JOTI leer je nieuwe vrienden kennen uit andere landen, ontdek je verschillende culturen en kun je samen met anderen de leukste uitdagingen aangaan.
+# Wat is een Jamboree?
+Een jamboree is een groot evenement waarbij scouts van over de hele wereld samenkomen. Tijdens een jamboree leer je nieuwe mensen kennen, doe je leuke activiteiten en ontdek je andere culturen. Er zijn verschillende soorten jamborees — zoals de Wereldjamboree, maar ook digitale versies zoals JOTA en JOTI.
 
+## Wat is JOTA?
+JOTA staat voor Jamboree On The Air. Tijdens de JOTA communiceren scouts met elkaar via radioverbindingen. Zendamateurs gebruiken sterke radiozenders en speciale frequenties, zodat je kunt praten met scouts van ver weg — soms zelfs van de andere kant van de wereld!
+
+## Wat is JOTI?
+JOTI betekent Jamboree On The Internet. In plaats van radio gebruiken we hier het internet om contact te maken met scouts over de hele wereld. Via chats, online spelletjes en opdrachten leer je nieuwe vrienden kennen en ontdek je hoe scouting in andere landen werkt.
+
+### Wij doen mee aan de JOTI!
+Dit jaar doet onze scoutinggroep mee aan de JOTI! 🎉
+We gaan samen online praten met andere scouts, leuke uitdagingen doen en natuurlijk heel veel plezier maken.
 ![plane](assets/plane.png)
 
 ## Wat is ScoutLink?
