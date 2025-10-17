@@ -4,17 +4,12 @@ hide:
 ---
 
 # Wat is een Jamboree?
-Een jamboree is een groot evenement waarbij scouts van over de hele wereld samenkomen. Tijdens een jamboree leer je nieuwe mensen kennen, doe je leuke activiteiten en ontdek je andere culturen. Er zijn verschillende soorten jamborees — zoals de Wereldjamboree, maar ook digitale versies zoals JOTA en JOTI.
+Een **jamboree** is een groot evenement waarbij scouts van over de hele wereld samenkomen. Tijdens een jamboree leer je nieuwe mensen kennen, doe je leuke activiteiten en ontdek je andere culturen. Er zijn verschillende soorten jamborees, zoals de Wereldjamboree, maar ook digitale versies zoals JOTA en JOTI.
 
-## Wat is JOTA?
-JOTA staat voor Jamboree On The Air. Tijdens de JOTA communiceren scouts met elkaar via radioverbindingen. Zendamateurs gebruiken sterke radiozenders en speciale frequenties, zodat je kunt praten met scouts van ver weg — soms zelfs van de andere kant van de wereld!
+- **JOTA** staat voor Jamboree On The Air. Tijdens JOTA communiceren scouts via radioverbindingen. Zendamateurs gebruiken speciale frequenties, zodat je kunt praten met scouts van ver weg — soms zelfs van de andere kant van de wereld.
+- **JOTI** betekent Jamboree On The Internet. Hier gebruiken we het internet om contact te maken met scouts over de hele wereld. Via chats, online spelletjes en opdrachten leer je nieuwe vrienden kennen en ontdek je hoe scouting in andere landen werkt.
 
-## Wat is JOTI?
-JOTI betekent Jamboree On The Internet. In plaats van radio gebruiken we hier het internet om contact te maken met scouts over de hele wereld. Via chats, online spelletjes en opdrachten leer je nieuwe vrienden kennen en ontdek je hoe scouting in andere landen werkt.
-
-### Wij doen mee aan de JOTI!
-Dit jaar doet onze scoutinggroep mee aan de JOTI! 🎉
-We gaan samen online praten met andere scouts, leuke uitdagingen doen en natuurlijk heel veel plezier maken.
+Dit jaar doet onze scoutinggroep mee aan de JOTI! 🎉  We gaan samen online praten met andere scouts, leuke uitdagingen doen en plezier maken.
 ![plane](assets/plane.png)
 
 ## Wat is ScoutLink?
@@ -25,22 +20,53 @@ Naast het klassieke addIRC zijn er ook moderne manieren om verbinding te maken m
 ## Belangrijke regels!
 - **Persoonlijke informatie**: Deel ***nooit*** je volledige naam, adres, telefoonnummer, gebruikersnamen van sociale media of andere persoonlijke informatie in de chat. Dit is belangrijk voor je eigen veiligheid. Gebruik alleen je voornaam of een scoutingnaam.
 - **Gedragsregels**: We gebruiken ***geen*** ongepast taalgebruik of en gaan ook ***niet*** spam versturen. Dit kan er voorzorgen dat de hele scouting geblokeerd wordt het ScoutLink-netwerk. Ben dus beschaaft!
-- **Vraag om hulp**: Als je ergens niet uitkomt of als iets niet goed werkt, vraag dan meteen de staf om hulp. Ze staan klaar om je te helpen met technische problemen of uitleg over addIRC.
+- **Vraag om hulp**: Als je ergens niet uitkomt of als iets niet goed werkt, vraag dan meteen de staf om hulp. Ze staan klaar om je te helpen met technische problemen of uitleg over AddIRC.
 
-## Hoe werkt addIRC?
-addIRC is een programma waarmee je toegang krijgt tot verschillende chatrooms op het ScoutLink-netwerk. Het is de plek waar je andere scouts kunt ontmoeten en samen opdrachten kunt uitvoeren.
+## Hoe werkt AddIRC?
+AddIRC is een programma waarmee je toegang krijgt tot verschillende chatrooms op het ScoutLink-netwerk. Het is de plek waar je andere scouts kunt ontmoeten en samen opdrachten kunt uitvoeren.
 
-- **Verbinding maken met de server**: De staf zorgt ervoor dat addIRC automatisch verbinding maakt met de ScoutLink-server. Als de verbinding om wat voor reden dan ook wegvalt, roep dan meteen de staf erbij. Zij kunnen de server opnieuw instellen.
+- **Verbinding maken met de server**: De staf zorgt ervoor dat AddIRC automatisch verbinding maakt met de ScoutLink-server. Als de verbinding om wat voor reden dan ook wegvalt, roep dan meteen de staf erbij. Zij kunnen de server opnieuw instellen.
 - **Chatrooms betreden**: Eenmaal verbonden met ScoutLink kun je verschillende chatrooms betreden. De belangrijkste kanalen zijn **#dutch** voor nederlandstalige chats en **#english** voor internationale chats in het Engels.
 - **Privéberichten sturen**: Als je met een specifieke scout apart wilt chatten, kun je op hun naam in de chatroom klikken en hen een persoonlijk bericht sturen. Dit kan handig zijn als je samenwerkt aan een opdracht of vragen hebt.
+
+## Hoe werkt WebSDR?
+**WebSDR** zijn websites waarmee je naar **radiosignalen in de lucht** kunt luisteren, zonder dat je zelf een antenne of ontvanger nodig hebt. Ze laten je veel signalen tegelijk bekijken en beluisteren met je computer.
+
+Wat je precies hoort, hangt af van de WebSDR. Meestal laat een WebSDR een **spectrum** zien, van de laagste tot de hoogste frequentie die de SDR kan opvangen.  
+
+Een **frequentie** kun je zien als een adres voor radiogolven: elk station heeft zijn eigen “adres” zodat signalen elkaar niet storen. Technisch gezien is een frequentie **hoe snel een golf op en neer gaat per seconde**. Door die golf te veranderen, kun je er **geluid of data** over sturen, zoals stem, morsepiepjes of digitale tekst. Verschillende signalen gebruiken verschillende coderingen, zoals **AM, FM, CW of digitale modes**, zodat de ontvanger weet hoe hij het moet interpreteren.
+
+![alt text](assets/spectrum.webp)
+
+Een **WebSDR** is anders dan een gewone radio: een normale radio kan meestal maar **één zender tegelijk horen**, terwijl een WebSDR een **groot deel van het radiospectrum tegelijk opvangt**.  
+
+Op het scherm van een WebSDR zie je waar signalen zitten, meestal als **piekjes of lijnen**, en je kunt zelf kiezen welke frequentie je wilt beluisteren.
+
+Op een WebSDR kun je vaak:
+
+- **Kiezen van frequentie**: klik op een piekje of voer een frequentie in om een specifieke zender te beluisteren.  
+- **Volume regelen**: harder of zachter luisteren, net als bij een gewone radio.  
+- **Filter instellen / bandbreedte aanpassen**: storingen weghalen of juist een breder signaal horen.  
+- **Mode kiezen**: hier vertel je de SDR welk type signaal je wilt horen, bijvoorbeeld:  
+    - **AM (Amplitude Modulation)** → oude radiosignalen of stem  
+    - **FM (Frequency Modulation)** → heldere stem of muziek  
+    - **CW (Continuous Wave)** → morsecode, korte en lange piepjes  
+    - **LSB (Lower Side Band)** → spraak van zendamateurs, gebruikt vooral op lagere HF-frequenties  
+    - **USB (Upper Side Band)** → spraak van zendamateurs op hogere HF-frequenties  
+
+Een WebSDR is dus een beetje een **super-radio**: je ziet alles wat er in de lucht gebeurt en kunt zelf bepalen **wat je wilt horen en bekijken**.
+
+Voor een **lijst met WebSDR’s over de hele wereld**, kun je kijken op [WebSDR.org](http://websdr.org/).
+
+![alt text](assets/sdr.png)
 
 ## Opdrachten?
 Alle opdrachten voor JOTI staan op deze website, gesorteerd per categorie. Je hebt verschillende soorten opdrachten zoals de vragenlijst, de Wikipedia-zoektocht, en de communicatie-uitdagingen. Probeer samen met andere scouts via de chatrooms de opdrachten zo goed mogelijk te voltooien. Het team dat de meeste punten verzamelt, wint!
 
 Veel succes en plezier met het ontmoeten van scouts van over de hele wereld tijdens JOTI! Maak nieuwe vrienden, leer nieuwe dingen en vooral: geniet van deze geweldige ervaring! 🌍✨
 
-### Opdracht: Raadsel...
-Elke twintig tot dertig minuten verschijnt er een nieuw fragment van het raadsel op je scherm, en elk stuk blijft gedurende die tijd zichtbaar. Zorg ervoor dat je deze delen goed noteert, want ze vormen samen een belangrijke zin. Er zijn in totaal vier delen, en elk fragment is cruciaal om het volledige raadsel te begrijpen. Neem de tijd om elk onderdeel te analyseren en uit te zoeken wat het betekent. Het is ook handig om vooraf informatie te verzamelen, zodat je goed voorbereid bent om het raadsel te ontrafelen. Blijf alert, want de oplossing ligt in de samenhang van alle delen!
+### Opdracht: Meeluisteren...
+
 
 ### Opdracht: Internationale vragen?
 Zoek een scout uit een land waarmee je wilt chatten. Vraag aan deze scout bij welke scouting hij zit en van welk land hij is. Hoe verder weg deze scout zich van jou bevindt hoe meer punten er beschikbaar komen. Schrijf deze locatie dus `scouting+land` goed op het antwoorden vel. Schrijf ook het antwoord van de vraag op, op het antwoord vel. Vraag dan maximaal 5 vragen aan deze scout. Probeer dus niet zo snel mogelijk door al je vragen heen te zijn want anders kom je zometeen een scout tegen die verder weg is en heb je dus punten laten liggen. 
@@ -87,7 +113,8 @@ Zoek een scout uit een land waarmee je wilt chatten. Vraag aan deze scout bij we
 40. **Wat is een belangrijk doel dat je wilt bereiken tijdens JOTI?**
 
 ### Opdracht: Wikipedia zoektocht?
-Zoek de antwoorden op de vragen over scouting en communicatie op Wikipedia door gebruik te maken van relevante keywords. Typ een paar sleutelwoorden in de zoekbalk in plaats van de volledige vraag om een breder overzicht te krijgen. Lees de artikelen aandachtig en noteer de juiste antwoorden op je antwoordenvel. Vergeet niet om interessante feiten of extra informatie te verzamelen, want hoe meer details je hebt, hoe beter je je antwoorden kunt onderbouwen. Neem de tijd voor elke zoekopdracht, zodat je niets mist. Veel succes met je zoektocht!
+Zoek de antwoorden op de vragen over scouting en communicatie op Wikipedia door relevante keywords te gebruiken. Typ een paar sleutelwoorden in de zoekbalk in plaats van de volledige vraag om een breder overzicht te krijgen. Lees de artikelen aandachtig en noteer de juiste antwoorden op je antwoordenvel. Vergeet niet om interessante feiten of extra informatie te verzamelen, want dat levert bonus punten op. Noteer altijd de naam van het Wikipedia-artikel, de paragraaf waarin je het antwoord hebt gevonden en het antwoord zelf.
+Neem de tijd voor elke zoekopdracht, zodat je niets mist en misschien kom je zelfs nog iets interessants tegen.
 
 1. **In welk jaar werd de Boy Scouts of America opgericht?**
 2. **Wat is de betekenis van het woord "scouting"?**
