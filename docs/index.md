@@ -66,7 +66,32 @@ Alle opdrachten voor JOTI staan op deze website, gesorteerd per categorie. Je he
 Veel succes en plezier met het ontmoeten van scouts van over de hele wereld tijdens JOTI! Maak nieuwe vrienden, leer nieuwe dingen en vooral: geniet van deze geweldige ervaring! 🌍✨
 
 ### Opdracht: Meeluisteren...
+| Band           | SSB (Phone)       | CW (Morse)     |
+|----------------|-----------------|----------------|
+| 80 meter-band  | 3.690 & 3.940 MHz | 3.570 MHz      |
+| 40 meter-band  | 7.090 & 7.190 MHz | 7.030 MHz      |
+| 20 meter-band  | 14.290 MHz        | 14.060 MHz     |
+| 17 meter-band  | 18.140 MHz        | 18.080 MHz     |
+| 15 meter-band  | 21.360 MHz        | 21.140 MHz     |
+| 12 meter-band  | 24.960 MHz        | 24.910 MHz     |
+| 10 meter-band  | 28.390 MHz        | 28.180 MHz     |
+| 6 meter-band   | 50.160 MHz        | 50.160 MHz     |
 
+De tabel laat de richtlijnfrequenties zien die Scouts tijdens JOTA gebruiken. Elke band heeft zijn eigen eigenschappen: lage banden zoals 80 en 40 meter reiken verder ‘s nachts, terwijl hogere banden zoals 20 tot 10 meter beter overdag werken. De SSB-frequenties zijn bedoeld voor spraakcommunicatie en de CW-frequenties voor Morsecode.
+
+Tijdens JOTA kun je je radio op een van de frequenties uit de tabel zetten en meeluisteren met andere stations. Elke zendamteur gebruikt een call sign om zich te identificeren. Bij het doorgeven van call signs wordt vaak het NATO-spellingsalfabet gebruikt, bijvoorbeeld “A als Alfa, B als Bravo, C als Charlie”, zodat letters altijd duidelijk zijn en er geen misverstanden ontstaan. 
+
+![alt text](assets/alphabet.jpg)
+
+**Beantwoord:** Beantwoord de vragen om jou kennis van JOTA te testen. 
+
+1. **Wat is het verschil tussen SSB (Phone) en CW (Morse) communicatie?**
+2. **Welke banden werken het beste ‘s nachts en welke overdag?**
+3. **Waarom gebruikt men het NATO-spellingsalfabet bij het doorgeven van call signs?**
+4. **Wat is een call sign en waarom is het belangrijk tijdens JOTA?**
+5. **Noem één voorbeeld van een frequentie waarop je spraakcommunicatie (SSB) kunt luisteren en één waarop je Morsecode (CW) kunt horen.**
+
+**Opdracht:** Vind mogelijk callsigns en frequenties waarop jij andere scouts hebt gehoord. 
 
 ### Opdracht: Internationale vragen?
 Zoek een scout uit een land waarmee je wilt chatten. Vraag aan deze scout bij welke scouting hij zit en van welk land hij is. Hoe verder weg deze scout zich van jou bevindt hoe meer punten er beschikbaar komen. Schrijf deze locatie dus `scouting+land` goed op het antwoorden vel. Schrijf ook het antwoord van de vraag op, op het antwoord vel. Vraag dan maximaal 5 vragen aan deze scout. Probeer dus niet zo snel mogelijk door al je vragen heen te zijn want anders kom je zometeen een scout tegen die verder weg is en heb je dus punten laten liggen. 
